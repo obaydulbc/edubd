@@ -1,0 +1,35 @@
+[
+  {
+    "id": 101,
+    "exam_name": "SSC",
+    "year": "2025",
+    "title": "এসএসসি পরীক্ষার রুটিন ২০২৫ (All Boards)",
+    "publish_date": "2024-11-20",
+    "status": "Published",
+    "url": "https://dhakaeducationboard.gov.bd/data/2024/11/ssc_routine_2025.pdf",
+    "image_url": "https://i.imgur.com/sample_ssc_routine.jpg",
+    "keywords": ["ssc routine", "ssc 2025", "exam date"]
+  },
+  {
+    "id": 102,
+    "exam_name": "HSC",
+    "year": "2025",
+    "title": "এইচএসসি পরীক্ষার রুটিন ২০২৫",
+    "publish_date": "Not Published",
+    "status": "Upcoming",
+    "url": "https://educationboard.gov.bd/",
+    "image_url": null,
+    "keywords": ["hsc routine", "hsc 2025", "inter routine"]
+  },
+  {
+    "id": 103,
+    "exam_name": "Class 9 Half Yearly",
+    "year": "2024",
+    "title": "নবম শ্রেণির অর্ধবার্ষিক পরীক্ষার রুটিন",
+    "publish_date": "2024-05-10",
+    "status": "Archived",
+    "url": "https://dshe.gov.bd/routine_class9.pdf",
+    "image_url": null,
+    "keywords": ["class 9 exam", "half yearly"]
+  }
+]
