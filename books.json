@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "class": "Class 9-10",
+    "subject": "Physics",
+    "name": "পদার্থবিজ্ঞান (Physics) - Class 9-10",
+    "bn_name": "পদার্থবিজ্ঞান",
+    "author": "NCTB",
+    "url": "http://nctb.gov.bd/sites/default/files/files/nctb.gov.bd/page/4967b50f_8777_4341_9c61_25270176b6b4/Class-9-10-Physics_Bangla%20Version_2024.pdf",
+    "keywords": ["physics", "biggan", "class 9", "ssc"]
+  },
+  {
+    "id": 2,
+    "class": "Class 9-10",
+    "subject": "Chemistry",
+    "name": "রসায়ন (Chemistry) - Class 9-10",
+    "bn_name": "রসায়ন",
+    "author": "NCTB",
+    "url": "http://nctb.gov.bd/sites/default/files/files/nctb.gov.bd/page/4967b50f_8777_4341_9c61_25270176b6b4/Class-9-10-Chemistry_Bangla%20Version_2024.pdf",
+    "keywords": ["chemistry", "rosayon", "class 10", "ssc"]
+  },
+  {
+    "id": 3,
+    "class": "Class 9-10",
+    "subject": "Math",
+    "name": "গণিত (General Math) - Class 9-10",
+    "bn_name": "গণিত",
+    "author": "NCTB",
+    "url": "http://nctb.gov.bd/sites/default/files/files/nctb.gov.bd/page/4967b50f_8777_4341_9c61_25270176b6b4/Class-9-10-Math_Bangla%20Version_2024.pdf",
+    "keywords": ["math", "gonit", "general math"]
+  },
+  {
+    "id": 4,
+    "class": "HSC",
+    "subject": "ICT",
+    "name": "তথ্য ও যোগাযোগ প্রযুক্তি (ICT) - HSC",
+    "bn_name": "আইসিটি",
+    "author": "NCTB",
+    "url": "http://nctb.gov.bd/sites/default/files/files/nctb.gov.bd/page/4967b50f_8777_4341_9c61_25270176b6b4/HSC_ICT_Bangla_2024.pdf",
+    "keywords": ["ict", "computer", "hsc", "inter"]
+  },
+  {
+    "id": 5,
+    "class": "HSC",
+    "subject": "English",
+    "name": "English For Today - HSC",
+    "bn_name": "ইংরেজি",
+    "author": "NCTB",
+    "url": "http://nctb.gov.bd/sites/default/files/files/nctb.gov.bd/page/4967b50f_8777_4341_9c61_25270176b6b4/HSC_English_2024.pdf",
+    "keywords": ["english", "eft", "hsc"]
+  },
+  {
+    "id": 6,
+    "class": "Class 8",
+    "subject": "Science",
+    "name": "বিজ্ঞান (Science) - Class 8",
+    "bn_name": "বিজ্ঞান",
+    "author": "NCTB",
+    "url": "http://nctb.gov.bd/sites/default/files/files/nctb.gov.bd/page/4967b50f_8777_4341_9c61_25270176b6b4/Class-8-Science_2024.pdf",
+    "keywords": ["science", "jsc", "class 8"]
+  }
+]
